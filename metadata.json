@@ -1,0 +1,7 @@
+{
+  "name": "GUESSTURES // Commission Studio",
+  "description": "Elite commission engineering studio delivering high-assurance cloud web applications, native mobile systems, autonomous AI agents, and embedded robotics & IoT devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
