@@ -189,7 +189,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenPrivacy }) => 
 
             <div className="font-mono text-[11px] text-[#8e9195] mt-2 flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
-              <span>ACTIVE</span>
+              <span>PHILIPPINES</span>
             </div>
           </div>
 
